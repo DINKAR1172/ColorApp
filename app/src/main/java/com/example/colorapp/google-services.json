@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272882600161",
+    "project_id": "colorapp-21b55",
+    "storage_bucket": "colorapp-21b55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272882600161:android:fb26aaf2b24ce993310fa0",
+        "android_client_info": {
+          "package_name": "com.example.colorapp.Screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_sJV8qEHG9lOgZAhdvtaVbxkmfJyp34k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
